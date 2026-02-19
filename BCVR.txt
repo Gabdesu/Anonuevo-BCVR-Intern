@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello BCVR!
 
 I'm Julius Pedimonte, OJT Student from Nage College Foundation Inc.
+=======
+Hello BCVR
+>>>>>>> 759c7f2f93b68bf250dc844d942458ea5dbf7608
